@@ -1,0 +1,10 @@
+# Ignora arquivos compilados do projeto analise-sentimento
+analise-sentimento/target/
+
+# Ignora arquivos de configuração do Eclipse
+analise-sentimento/.project
+analise-sentimento/.classpath
+analise-sentimento/.settings/
+
+# Ignora arquivos de log
+*.log
